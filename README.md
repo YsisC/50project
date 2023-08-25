@@ -1,1 +1,4 @@
-"# 50project" 
+# 50project
+
+1. Expanding Cards
+2. Progress Steps
